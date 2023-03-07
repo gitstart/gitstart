@@ -8,4 +8,4 @@
 
 💻 $ gitstart assign && sleep 432000 && git pull && git merge
 
-ℹ️ Learn more at gitstart.com
+ℹ️ Learn more at [gitstart.com](https://www.gitstart.com/)
