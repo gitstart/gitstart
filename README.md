@@ -6,6 +6,6 @@
 
 👋 Let's collaborate! Email us at hi@gitstart.com
 
-💻 $ gitstart assign && sleep 432000 && git pull && git merge
+💻 `$ gitstart assign && sleep 432000 && git pull && git merge`
 
 ℹ️ Learn more at [gitstart.com](https://www.gitstart.com/)
